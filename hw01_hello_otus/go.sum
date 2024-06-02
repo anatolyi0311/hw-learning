@@ -1,0 +1,4 @@
+github.com/gomodule/redigo v1.9.2 h1:HrutZBLhSIU8abiSfW8pj8mPhOyMYjZT/wcA4/L9L9s=
+github.com/gomodule/redigo v1.9.2/go.mod h1:KsU3hiK/Ay8U42qpaJk+kuNa3C+spxapWpM+ywhcgtw=
+golang.org/x/example/hello v0.0.0-20240205180059-32022caedd6a h1:lnHwduM5X5Fb0YnIPyjyGzRY88cc0Fo6xTgaWDX2c7Q=
+golang.org/x/example/hello v0.0.0-20240205180059-32022caedd6a/go.mod h1:UhUKOXx5fMcLZxwL20DUrWWBBoRYG9Jvc8FiwZhRHCI=
